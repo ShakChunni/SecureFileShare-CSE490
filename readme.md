@@ -29,6 +29,7 @@ This project demonstrates secure file storage and transmission using encryption 
 ## Requirements
 
 Python 3.x
+
 Python packages: Crypto
 
 ## Note
